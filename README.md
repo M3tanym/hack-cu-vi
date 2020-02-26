@@ -4,10 +4,10 @@
 
 ### HackCU VI: Max Rosoff, David Hallstrom, Ben Gillett
 
-![recyclable.png](./recyclable.png)
+<img src="./recyclable.png" width="100px" />
 
-[Our Live Deploy](https://recyclable.tech) (While live, our Google Cloud Backend has been taken down becuase we are poor).
-
+[Our Live Deploy](https://recyclable.tech) (Well it was live... our Google Cloud Backend has been taken down becuase we are poor :( )
+[Devpost](https://devpost.com/software/recyclable-3do0en)
 
 ## What is it?
 
